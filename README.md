@@ -10,7 +10,7 @@ You can download the used matlab code and processed data from the [Baidu disk](h
 The dataset is highly based on the LPCB. Many thanks for their great work.  
 Please consider citing this project in your publications if it helps your research.
 
-···
+```
 @inproceedings{deng2018learning,
   title={Learning to predict crisp boundaries},
   author={Deng, Ruoxi and Shen, Chunhua and Liu, Shengjun and Wang, Huibing and Liu, Xinru},
@@ -18,4 +18,4 @@ Please consider citing this project in your publications if it helps your resear
   pages={562--578},
   year={2018}
 }
-  ···
+```
