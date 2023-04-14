@@ -17,7 +17,7 @@ class BSDS_RCFLoader(data.Dataset):
         self.split = split
         self.transform = transform
         if self.split == 'train':
-            self.filelist = join(self.root, 'train_val_select10.lst')
+            self.filelist = join(self.root, 'train_val_all.lst')
             
         elif self.split == 'test':
             self.filelist = join(self.root, 'test.lst')
