@@ -19,7 +19,7 @@ import torchvision
 import matplotlib
 matplotlib.use('Agg')
 
-from data.data_loader_one_random_drx_uncert import BSDS_RCFLoader
+from data.data_loader_one_random_uncert import BSDS_RCFLoader
 MODEL_NAME="models.sigma_logit_unetpp"
 import importlib
 Model = importlib.import_module(MODEL_NAME)
