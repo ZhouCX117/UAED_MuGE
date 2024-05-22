@@ -1,5 +1,5 @@
 # MuGE
-We add code for MuGE.
+We add code for MuGE.  
 MuGE: Multiple Granularity Edge Detection [pdf](https://www3.cs.stonybrook.edu/~hling/publication/MuGE.pdf)  
 Caixia Zhou, Yaping Huang, Mengyang Pu, Qingji Guan, Ruoxi Deng and Haibin Ling  
 CVPR2024
