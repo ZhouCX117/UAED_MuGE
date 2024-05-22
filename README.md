@@ -32,9 +32,9 @@ python train_muge.py
 # Best ODS and OIS evaluation for MuGE
 1. Run python test_muge.py to obtain the results under different granularities. 
 2. Test ODS and OIS for each granularity as normal. 
-3. Run eval_muge_best/best_result.py to obtain the ODS and OIS value. 
-4. Run eval_muge_best/select_best_ois.py to obtain the selected pictures for best OIS. 
-5. Select the threshold for best ODS from the best_ods_0.1/nms-eval/eval_bdry_thr.txt, revise line 8 in eval_muge_best/select_best_ods.py and run eval_muge_best/select_best_ods.py to select the best pictures for best ODS. 
+3. Run eval_muge_best/best_ods_ois.py to obtain the ODS and OIS value. 
+4. Run eval_muge_best/select_best_ois_png.py to obtain the selected pictures for best OIS. 
+5. Select the threshold for best ODS from the best_ods_0.1/nms-eval/eval_bdry_thr.txt, revise line 8 in eval_muge_best/select_best_ods_png.py and run eval_muge_best/select_best_ods_png.py to select the best pictures for best ODS. 
 # Acknowledgement & Citation
 The dataset is highly based on the LPCB, and the code is highly based on [RCF_Pytorch_Updated](https://github.com/balajiselvaraj1601/RCF_Pytorch_Updated) and [
 segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch). Many thanks for their great work.  
