@@ -12,7 +12,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import matplotlib
 matplotlib.use('Agg')
-from data.data_loader_one_random_drx import BSDS_RCFLoader
+from data.data_loader_one_random_uncert import BSDS_RCFLoader
 from models.sigma_logit_unetpp_alpha_ffthalf_feat import Mymodel
 from torch.utils.data import DataLoader
 from torch.distributions import Normal, Independent
