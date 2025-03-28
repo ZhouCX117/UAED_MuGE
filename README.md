@@ -16,7 +16,7 @@ Training data for the Multicue dataset can be downloaded from the [Quark Disk](h
 
 # Checkpoint 
 BSDS with single scale for UAED: [Quark disk](https://pan.quark.cn/s/9e65e82b3d40) or  [Google disk](https://drive.google.com/file/d/1nv2_TZRyiQh5oU9TnGMzu313OrspD2l5/view?usp=sharing)  
-VOC pretrain model for UAED: [Quark disk](https://pan.quark.cn/s/7bfb4fd56242) or [Google disk](https://drive.google.com/file/d/1cfmErOAUgbvMH_MMFsxhc7f_qxxoy01x/view?usp=sharing) 
+VOC pretrain model for UAED: [Quark disk](https://pan.quark.cn/s/7bfb4fd56242) or [Google disk](https://drive.google.com/file/d/1cfmErOAUgbvMH_MMFsxhc7f_qxxoy01x/view?usp=sharing)  
 Pretrain granularity network for MuGE:  [Google disk](https://drive.google.com/file/d/1DBLZvPwI-Z6N70pG8y3-TKWmlUdRjulR/view?usp=drive_link) 
 BSDS with scale for MuGE: [Google disk](https://drive.google.com/file/d/15NucsEeHAFwo5O2s11pMR1BikoUtiuUX/view?usp=sharing)  
 
