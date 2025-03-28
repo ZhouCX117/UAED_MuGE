@@ -28,7 +28,7 @@ UAED:
 python train_uaed.py
 ```
 MuGE:
-first download the [checkpoint](https://drive.google.com/file/d/15NucsEeHAFwo5O2s11pMR1BikoUtiuUX/view?usp=sharing), then revise line 39 as the checkpoint path.  
+first download the [checkpoint](https://drive.google.com/file/d/1DBLZvPwI-Z6N70pG8y3-TKWmlUdRjulR/view?usp=drive_link), then revise line 39 as the checkpoint path.  
 ```
 python train_muge.py
 ```
